@@ -1,3 +1,4 @@
+#gives cosine similarity score for text from two HTML pages
 from bs4 import BeautifulSoup
 import nltk
 from nltk.corpus import stopwords
